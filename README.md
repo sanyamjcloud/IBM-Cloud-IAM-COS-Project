@@ -59,12 +59,6 @@ Secure access control successfully implemented. Only authorized users were able 
 
 ---
 
-## Screenshots
-
-(Project screenshots added here)
-
----
-
 ## Author
 
 **Sanyam Jain**
